@@ -1,0 +1,1 @@
+Projekt jest pusty, chodzi tutaj bardziej o przepływ procesów git
